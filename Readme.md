@@ -8,3 +8,5 @@ It also helped me learn how to containarize this app and use Docker compose to d
 You can simply clone the project first from github.
 Then run `docker-compose up -d` to run the app.
 And run `docker-compose down` to shut down the app cleanly!
+
+## Live preview of the [app](https://graceful-pothos-731002.netlify.app)
